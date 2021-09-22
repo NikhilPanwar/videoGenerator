@@ -4,7 +4,7 @@ Supports slides, fade animations.
 
 
 ```
-usage: convert_song.py [-h] [-t] -d  [-i] [-e] mp3File
+usage: vidGenerate.py [-h] [-t] -d  [-i] [-e] mp3File
 
 Generate Video from batch of images and mp3 files
 
